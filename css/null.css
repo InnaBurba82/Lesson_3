@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+/* 
+li{
+    list-style: none;
+}
+*/
+
+a,
+a:visited{  /*__a:visited это псевдокласс   ссылки которые были уже посещенны*/
+    text-decoration: none; /*убрали подчеркивание*/
+}
+a:hover{
+    text-decoration: none;
+}
+
+/* 
+h1,h2,h3,h4,h5,h6{
+    font-weight: inherit;
+    font-size: inherit;
+}
+*/
+
+
+img{
+    vertical-align: top; /* убирает отступ у изображения*/
+}

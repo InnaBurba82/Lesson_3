@@ -1,0 +1,46 @@
+
+
+.link-first {
+    color: rgb(21, 30, 109);
+}
+.link-second {
+    color: darkmagenta;
+}
+.link-third {
+    color: forestgreen;
+}
+.link-fourth {
+    color: rgb(180, 128, 30);
+}
+
+h1{
+color: blue;
+}
+/* ============= */
+.memo {
+}
+.memo-text {
+}
+.memo-title {
+    color: brown;
+}
+/* ================== */
+.pink{
+    background: rgb(230, 39, 150);
+}
+
+.link-way{
+    color: darkorange;
+}
+
+.photo mark{
+    color: rgb(196, 199, 40);
+    background: rgb(7, 22, 236);
+}
+
+.step-four + p{
+    color: red;
+}
+.step-six > p{
+    color: forestgreen;
+}
